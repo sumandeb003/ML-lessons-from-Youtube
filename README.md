@@ -5,4 +5,5 @@
 3. **The non-linearity of the activation functions adds up in a multi-layered NN and allows us to model complicated decision boundaries.**
 4. Great video for visualizing forward propagation through an NN: https://www.youtube.com/watch?v=UOvPeC8WOt8&ab_channel=vcubingx
     - Needs background on linear transformations via matrices. Check 3Blue1Brown video(s) on linear transformation.
-5. 
+5. https://www.youtube.com/watch?v=8ps_JEW42xs&ab_channel=ritvikmath
+    - Softmax: Converts a set of values to corresponding probabilities - $S_i -> P_i$
