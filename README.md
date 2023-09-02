@@ -7,4 +7,4 @@
     - Needs background on linear transformations via matrices. Check 3Blue1Brown video(s) on linear transformation.
 5. https://www.youtube.com/watch?v=8ps_JEW42xs&ab_channel=ritvikmath
     - Softmax: Converts a set of values to corresponding probabilities - $S_i -> P_i$
-    - Softmax: $P_i = e^{S_i}/\Sigma S_i$
+    - Softmax: $P_i = e^{S_i}/\Sigma e^{S_i}$
